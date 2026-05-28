@@ -1,0 +1,32 @@
+aid: arcsecond-io
+name: arcsecond.io
+description: "Multiple astronomy data sources"
+url: https://api.arcsecond.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: arcsecond.io
+    description: "Multiple astronomy data sources"
+    humanURL: https://api.arcsecond.io/
+    baseURL: https://api.arcsecond.io/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://api.arcsecond.io/
+common:
+  - type: Website
+    url: https://api.arcsecond.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
