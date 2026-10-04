@@ -33,13 +33,13 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Science
+  - Astronomy
 apis:
   - name: arcsecond.io
     description: "Multiple astronomy data sources"
     humanURL: https://api.arcsecond.io/
-    baseURL: https://api.arcsecond.io/
     tags:
       - Science And Math
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
