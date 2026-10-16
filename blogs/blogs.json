@@ -1,0 +1,14 @@
+{
+  "repo": "arcsecond-io",
+  "feeds": [
+    {
+      "source": "https://blog.arcsecond.io/feed/",
+      "feed_url": "https://blog.arcsecond.io/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
