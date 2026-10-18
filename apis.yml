@@ -40,7 +40,8 @@ apis:
   - name: arcsecond.io
     description: "Multiple astronomy data sources"
     humanURL: https://api.arcsecond.io/
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
